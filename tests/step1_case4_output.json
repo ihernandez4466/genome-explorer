@@ -1,0 +1,9 @@
+{
+  "is_valid": true,
+  "clean_sequence": "A",
+  "length": 1,
+  "gc_content_pct": 0.0,
+  "reverse": "A",
+  "complement": "T",
+  "reverse_complement": "T"
+}

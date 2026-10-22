@@ -1,0 +1,6 @@
+{
+  "sequence": "ATGGCTA",
+  "frame_0": "MG",
+  "remainder_bases": "A",
+  "handling": "truncated or padded depending on design choice"
+}

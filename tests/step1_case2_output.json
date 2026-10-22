@@ -1,0 +1,9 @@
+{
+  "is_valid": true,
+  "clean_sequence": "ATGCGTACCGTA",
+  "length": 12,
+  "gc_content_pct": 50.0,
+  "reverse": "ATGCCATGCGTA",
+  "complement": "TACGCATGGCAT",
+  "reverse_complement": "TACGGTACGCAT"
+}
